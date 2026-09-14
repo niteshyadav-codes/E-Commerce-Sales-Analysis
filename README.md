@@ -8,7 +8,7 @@ The project transforms a 1,000-order e-commerce dataset into an executive-friend
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](./dashboard.png)
+![E-Commerce Sales Analysis Dashboard](./project.png)
 
 > **Dashboard focus:** Sales | Profit | Products | Customers | Regional Performance | Business Insights
 
